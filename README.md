@@ -2,7 +2,7 @@ Personal Website — DAVID MANDA THAWE
 Student Information
 Student Name: DAVID MANDA THAWE
 Student ID: 2511870181
-GitHub Repository: Add your repository URL here
+GitHub Repository: https://github.com/davidthawe63-oss/MY-WEBSITE
 Question 1: Website Creation
 I created a personal website using only HTML. The website contains an introduction, About Me section, skills, projects, education, interests, and a contact form.
 The website uses more than 25 different HTML elements and more than 15 different HTML attributes. It also uses semantic HTML elements to organize the page clearly.
